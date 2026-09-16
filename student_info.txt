@@ -1,0 +1,4 @@
+Student Name: Leigh Anika M. Punzalan
+Student ID: 2025-01-14090
+Section: BSCS 2B
+Course: CS 106 - App Dev
